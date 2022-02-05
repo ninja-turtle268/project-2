@@ -2,30 +2,22 @@
 
 <hr>
 
-More than 34.2 million people around the globe are suffering with diabetes. There has to be a way to predict if someone is going to get diabetes and start treating it at the earliest. With the increasing demand for doctors, we need something that will help our healthcare system.
+The ninth edition of the IDF Diabetes Atlas offers projections that continue to put India at the second slot right up to 2045. And the numbers are staggering — just over 134 million Indians will be diabetics in the next 25 years.
+
+India is on the top of the table of a clutch of countries in from southeast Asia — Bangladesh, Sri Lanka, Nepal and Mauritius. Bangladesh, which is second on the list of top five countries with diabetes (20-79 years), however, has only 8.4 million diabetics.
 
 <hr>
 
-My Solution is a web application that takes in certain parameters and tells the user if he/she is likely to have diabetes in the future. This will solve the problem of patients finding out too late that they have diabetes and till then they would have already caused a lot of harm to their body. My app, uses machine learning to predict if a user will have diabetes. This machine learning model is made with the help of a diabetes dataset. The app also shows the accuracy percentage of the prediction it has made.
+In order to decrease this high diabetes rate in India, I would like to propose my Web Application that functions in such a way that when you enter in your data, thi app can predict how likely you are to get diabetes in the future. This possible web application will eradicate the process of patients finding out that they are diabetic pretty late, enabling them to take care of theirselves from early period itself. 
+
 
 <hr>
 
-Main Technologies Used:-
+Main AZURE Technologies Used:-
 1. Azure Web Apps
 2. Azure App Service
-3. Flask
-4. Machine Learning (Random Forest Classifier)
-
-<hr>
-
-Packages Used:-
-1. Seaborn
-2. SciKit-Learn
-3. Flask
-4. Sci-Py
-5. Pandas
-6. Numpy
-7. Matplotlib
+3. VS CODE
+4. Machine Learning
 
 <hr>
 
